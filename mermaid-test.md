@@ -5,11 +5,11 @@ When exporting as HTML, PDF, epub, docx, those rendered diagrams will also be in
 Sequence
 It is powered by js-sequence, which would turn following code block into rendered diagrams:
 
-​```sequence
+```sequence
 Alice->Bob: Hello Bob, how are you?
 Note right of Bob: Bob thinks
 Bob-->Alice: I am good thanks!
-​```
+```
 
 
 Please refer here for syntax explanation.
@@ -17,7 +17,7 @@ Please refer here for syntax explanation.
 Flowchart
 It is powered by flowchart.js, which would turn following code block into rendered diagrams:
 
-​```flow
+```flow
 st=>start: Start
 op=>operation: Your Operation
 cond=>condition: Yes or No?
@@ -26,7 +26,7 @@ e=>end
 st->op->cond
 cond(yes)->e
 cond(no)->op
-​```
+```
 
 
 Mermaid
@@ -35,7 +35,7 @@ Typora also has integration with mermaid, which supports sequence, flowchart and
 Sequence
 see this doc
 
-​```mermaid
+```mermaid
 %% Example of sequence diagram
   sequenceDiagram
     Alice->>Bob: Hello Bob, how are you?
@@ -47,25 +47,25 @@ see this doc
     opt Extra response
     Bob->>Alice: Thanks for asking
     end
-​```
+```
 
 
 Flowchart
 see this doc
 
-​```mermaid
+```mermaid
 graph LR
 A[Hard edge] -->B(Round edge)
     B --> C{Decision}
     C -->|One| D[Result one]
     C -->|Two| E[Result two]
-​```
+```
 
 
 Gantt
 see this doc
 
-​```mermaid
+```mermaid
 %% Example with slection of syntaxes
         gantt
         dateFormat  YYYY-MM-DD
@@ -94,4 +94,4 @@ see this doc
         Describe gantt syntax               :after doc1, 3d
         Add gantt diagram to demo page      : 20h
         Add another diagram to demo page    : 48h
-​```
+```
