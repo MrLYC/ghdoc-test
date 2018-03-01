@@ -68,7 +68,7 @@
     console.log(foo[0], bar[0]); // => 9, 9
     ```
 
-    **[[⬆]](#TOC)**
+    
 
 ## <a name='objects'>对象</a>
 
@@ -99,7 +99,7 @@
       hidden: true
     };
     ```
-    **[[⬆]](#TOC)**
+    
 
 ## <a name='arrays'>数组</a>
 
@@ -151,7 +151,7 @@
     }
     ```
 
-    **[[⬆]](#TOC)**
+    
 
 
 ## <a name='strings'>字符串</a>
@@ -240,7 +240,7 @@
     }
     ```
 
-    **[[⬆]](#TOC)**
+    
 
 
 ## <a name='functions'>函数</a>
@@ -297,7 +297,7 @@
     }
     ```
 
-    **[[⬆]](#TOC)**
+    
 
 
 ## <a name='properties'>属性</a>
@@ -317,7 +317,7 @@
     var isJedi = getProp('jedi');
     ```
 
-    **[[⬆]](#TOC)**
+    
 
 
 ## <a name='variables'>变量</a>
@@ -426,7 +426,7 @@
     }
     ```
 
-    **[[⬆]](#TOC)**
+    
 
 
 ## <a name='conditionals'>条件表达式和等号</a>
@@ -474,7 +474,7 @@
 
   - 阅读 [Truth Equality and JavaScript](http://javascriptweblog.wordpress.com/2011/02/07/truth-equality-and-javascript/#more-2108) 了解更多
 
-    **[[⬆]](#TOC)**
+    
 
 
 ## <a name='blocks'>块</a>
@@ -503,7 +503,7 @@
     }
     ```
 
-    **[[⬆]](#TOC)**
+    
 
 
 ## <a name='comments'>注释</a>
@@ -592,7 +592,7 @@
     }
   ```
 
-    **[[⬆]](#TOC)**
+    
 
 
 ## <a name='whitespace'>空白</a>
@@ -672,7 +672,7 @@
         .call(tron.led);
     ```
 
-    **[[⬆]](#TOC)**
+    
 
 ## <a name='commas'>逗号</a>
 
@@ -732,7 +732,7 @@
     ];
     ```
 
-    **[[⬆]](#TOC)**
+    
 
 
 ## <a name='semicolons'>分号</a>
@@ -759,7 +759,7 @@
     })();
     ```
 
-    **[[⬆]](#TOC)**
+    
 
 
 ## <a name='type-coercion'>类型转换</a>
@@ -830,7 +830,7 @@
     var hasAge = !!age;
     ```
 
-    **[[⬆]](#TOC)**
+    
 
 
 ## <a name='naming-conventions'>命名约定</a>
@@ -930,7 +930,7 @@
     }
     ```
 
-    **[[⬆]](#TOC)**
+    
 
 
 ## <a name='accessors'>存取器</a>
@@ -984,7 +984,7 @@
     };
     ```
 
-    **[[⬆]](#TOC)**
+    
 
 
 ## <a name='constructors'>构造器</a>
@@ -1069,7 +1069,7 @@
     };
     ```
 
-    **[[⬆]](#TOC)**
+    
 
 
 ## <a name='events'>事件</a>
@@ -1100,7 +1100,7 @@
     });
     ```
 
-  **[[⬆]](#TOC)**
+  
 
 
 ## <a name='modules'>模块</a>
@@ -1131,7 +1131,7 @@
     }(this);
     ```
 
-    **[[⬆]](#TOC)**
+    
 
 
 ## <a name='jquery'>jQuery</a>
@@ -1186,14 +1186,14 @@
     $($sidebar[0]).find('ul');
     ```
 
-    **[[⬆]](#TOC)**
+    
 
 
 ## <a name='es5'>ECMAScript 5兼容性</a>
 
   - 参考[Kangax](https://twitter.com/kangax/)的 ES5 [compatibility table](http://kangax.github.com/es5-compat-table/)
 
-  **[[⬆]](#TOC)**
+  
 
 
 
@@ -1208,7 +1208,7 @@
   - [Long String Concatenation](http://jsperf.com/ya-string-concat)
   - Loading...
 
-  **[[⬆]](#TOC)**
+  
 
 
 ## <a name='resources'>资源</a>
@@ -1258,7 +1258,7 @@
   - [Dustin Diaz](http://dustindiaz.com/)
   - [nettuts](http://net.tutsplus.com/?s=javascript)
 
-  **[[⬆]](#TOC)**
+  
 
 ## <a name='in-the-wild'>哪些人在使用</a>
 
@@ -1323,6 +1323,6 @@ CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT,
 TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE
 SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
-**[[⬆]](#TOC)**
+
 
 # };
