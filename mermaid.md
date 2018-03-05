@@ -4,7 +4,6 @@
 [![Code Climate](https://codeclimate.com/github/knsv/mermaid/badges/gpa.svg)](https://codeclimate.com/github/knsv/mermaid)
 [![Join the chat at https://gitter.im/knsv/mermaid](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/knsv/mermaid?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
-![banner](./img/header.png)
 
 Generation of diagrams and flowcharts from text in a similar manner as markdown.
 
@@ -22,7 +21,6 @@ graph TD;
     B-->D;
     C-->D;
 ```
-![Flowchart](./img/flow.png)
 
 
 ### Sequence diagram
@@ -40,7 +38,6 @@ sequenceDiagram
     John->>Bob: How about you?
     Bob-->>John: Jolly good!
 ```
-![Sequence diagram](./img/sequence.png)
 
 
 ### Gantt diagram
@@ -56,7 +53,6 @@ Active task               :active,  des2, 2014-01-09, 3d
 Future task               :         des3, after des2, 5d
 Future task2               :         des4, after des3, 5d
 ```
-![Gantt diagram](./img/gantt.png)
 
 
 ### Class diagram - :exclamation: experimental
@@ -77,7 +73,6 @@ Class01 : int chimp
 Class01 : int gorilla
 Class08 <--> C2: Cool label
 ```
-![Class diagram](./img/class.png)
 
 
 ### Git graph - :exclamation: experimental
@@ -102,7 +97,6 @@ merge newbranch
 
 ```
 
-![Git graph](./img/git.png)
 
 
 ## Installation
